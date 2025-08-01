@@ -1,4 +1,4 @@
-## 이은석 | .NET 개발자. [![Email](https://img.shields.io/badge/Email-@defiling7569-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr)
+## 이은석 | .NET 개발자. [![Email](https://img.shields.io/badge/Email-@defiling7569-informational?style=flat&logo=gmail&logoColor=white)](mailto:eunseokleedev@gmail.com)
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
