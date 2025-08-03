@@ -1,4 +1,4 @@
-## 이은석 | .NET 개발자. [![Email](https://img.shields.io/badge/Email-@defiling7569-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr)
+## 이은석 | .NET 개발자. [![Email](https://img.shields.io/badge/Email-@defiling7569-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr) [![Brunch](https://img.shields.io/badge/Brunch-@iamia-00C2A0?style=flat)](https://brunch.co.kr/@iamia)
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
@@ -10,5 +10,5 @@
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 
-
-안녕하세요, .NET 개발자 이은석입니다. .NET, Blazor, EF Core 등 다양한 기술 확장에 관심을 두고 있습니다.
+안녕하세요, .NET 개발자 이은석입니다. <br>
+ASP.NET, Blazor, EF Core 등 다양한 기술에 관심을 두고 있으며, 브런치스토리에 IT를 포함한 다양한 주제의 글도 함께 연재하고 있습니다.
