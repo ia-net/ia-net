@@ -3,6 +3,5 @@
 ASP.NET & Blazor Developer | Azure Enthusiast  
 
 - ☁️ Azure Certified (AZ-900, AZ-104) | Learning AZ-305  
-- 🌐 IELTS General: 6.0
 - 📍 Based in Seoul, South Korea  
 - 🌐 Pages: [ia-net.github.io/](https://ia-net.github.io/)
