@@ -5,8 +5,7 @@
 
 **ASP.NET & Blazor Developer | Azure Enthusiast**
 
-- ☁️ Azure Certified (AZ-900)  
-- 🛠 Certified in Industrial Engineer Information Processing
-- 🔐 Studying for Information Security Engineer Certification  
+- ☁️ Certifications: AZ-900, Industrial Engineer Information Processing(정보처리기사)
+- 🔐 Currently studying: AZ-305, Information Security Engineer
 - 📍 Seoul, South Korea  
 - 🌐 Portfolio: [ia-net.github.io](https://ia-net.github.io/)
