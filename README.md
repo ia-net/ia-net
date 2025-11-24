@@ -6,8 +6,8 @@
 **ASP.NET & Blazor Developer | Azure Enthusiast**
 
 ## Links
-<a href="https://ia-net.github.io/" target="_blank" rel="noopener noreferrer">Github Pages</a>    
-<a href="https://ianet.hashnode.dev/" target="_blank" rel="noopener noreferrer">Hash Node</a>
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://ia-net.github.io/)
+[![Hashnode Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ianet.hashnode.dev/)
 
 
 ## Certifications
