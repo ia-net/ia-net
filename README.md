@@ -14,6 +14,6 @@ AZ-900, Engineer Information Processing
 Currently studying: AZ-305, Information Security Engineer
 
 ## Tech
-.NET, ASP.NET Core, Blazor  
-JavaScript (ESM), SQL Server, Dapper  
+ASP.NET, Blazor WebApp
+JS, SQL Server, Dapper, EFCore, dotnet ef
 Azure
