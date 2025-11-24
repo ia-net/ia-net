@@ -6,8 +6,8 @@
 **ASP.NET & Blazor Developer | Azure Enthusiast**
 
 ## Links
-Portfolio: https://ia-net.github.io/  
-Blog: https://ianet.hashnode.dev/
+Pages: <a href="https://ia-net.github.io/" target="_blank">Github Pages</a>    
+Blog: <a href="https://ianet.hashnode.dev/" target="_blank">Hash Node</a>
 
 ## Certifications
 AZ-900, Engineer Information Processing  
