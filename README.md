@@ -16,5 +16,7 @@ Currently studying: AZ-305, Information Security Engineer
 
 ## Tech
 ASP.NET, Blazor WebApp <br>
-JS, SQL Server, Dapper, EFCore, dotnet ef <br>
+JS, SQL Server <br>
+Dapper, EFCore, dotnet ef <br>
+Mudblazor, Blazor Fluent UI    
 Azure 
