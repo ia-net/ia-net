@@ -7,7 +7,7 @@
 
 ## Links
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://ia-net.github.io/)
-[![Hashnode Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ianet.hashnode.dev/)
+[![Hashnode Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ianet.dev/)
 
 
 ## Certifications
